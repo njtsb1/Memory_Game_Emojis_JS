@@ -22,6 +22,8 @@ In this project challenge, we will use HTML, CSS, and JavaScript to build a memo
 1. Clone or download this repository.
 2. Open `index.html` directly in any modern web browser, or serve it using a local development server (such as VS Code Live Server).
 
+![Screenshot web demo dark](docs/assets/Screenshot_web_demo_dark.png)
+
 See [original repository](https://github.com/digitalinnovationone/js-emoji-memory-game).
 
 [LICENSE](/LICENSE)
