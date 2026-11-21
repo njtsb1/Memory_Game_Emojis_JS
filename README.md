@@ -13,9 +13,9 @@ In this project challenge, we will use HTML, CSS, and JavaScript to build a memo
 
 ## Tecnologies used
 
-**HTML5**: Semantic HTML structure
-**CSS3**: Responsive styling, animations, and theme variables
-**Vanilla JavaScript**: Game logic, shuffle algorithm, and i18n handling
+- **HTML5**: Semantic HTML structure
+- **CSS3**: Responsive styling, animations, and theme variables
+- **Vanilla JavaScript**: Game logic, shuffle algorithm, and i18n handling
 
 ## How to Run
 
